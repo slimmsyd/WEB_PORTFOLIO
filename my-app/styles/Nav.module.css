@@ -1,0 +1,28 @@
+
+
+.divWrapper { 
+    display: flex;
+    align-items: center;
+    height: 10vh;
+    color: #fff;
+}
+
+.nav { 
+    padding: 0rem 2rem;
+}
+.navContainer { 
+    width: 480px !important;
+}
+.href { 
+    padding: 0.5rem;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+}
+
+@media screen and (max-width: 750px)  {
+    .navContainer {
+        width: fit-content !important;
+    }
+}
