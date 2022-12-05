@@ -221,11 +221,11 @@ export default function Home() {
           <div className = "work-flex">
                   <div className = "work-flex-left">
                       <span>02</span>
-                      <a href = "https://liam-casey-landing-page.vercel.app/">Liam Casey Landing Page</a>
+                      <a href = "https://liam-casey-landing-page.vercel.app/">Liam Casey Landing Page(In finalization Stage)</a>
                   </div>
                   <div className = "work-flex-left">
                       <span id = "none">05</span>
-                      <span id = "small">Custom build lead-gen website</span>
+                      <span id = "small">Custom Lead Gen Website Built For Digital Agency</span>
                   </div>
 
                   <div className = "work-flex-right"></div>
@@ -235,11 +235,11 @@ export default function Home() {
           <div className = "work-flex">
                   <div className = "work-flex-left">
                       <span>03</span>
-                      <a href = "https://thecitadelagency.co/">The Citadel Agency</a>
+                      <a href = "https://digitalanamoly.vercel.app/">Digital Anamoly(Work In Progress)</a>
                   </div>
                   <div className = "work-flex-left">
                       <span id = "none">05</span>
-                      <span id = "small">Custom build website on wordpress</span>
+                      <span id = "small">Custom Lead-Gen Website Built for Marketing Agency</span>
                   </div>
                   <div className = "work-flex-right"></div>
                 </div>
