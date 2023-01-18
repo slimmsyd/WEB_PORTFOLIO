@@ -5,6 +5,7 @@ import Navbar from './components/Nav'
 
 import React, {useState, useEffect, useRef} from 'react'; 
 import {ethers, providers, Contract, utils} from 'ethers'; 
+import {SYDIMAGE} from '../public/assets/SYDNEY.png';
 
 
 
@@ -142,9 +143,12 @@ export default function Home() {
 
 
   return (
+
+    
+
     <div className = "wrapper">
       
-
+   
       <div className = "flex">
       <Navbar
         accountAddress = {accountAddress}
@@ -162,7 +166,7 @@ export default function Home() {
                 <h1>Sydney Sanders</h1>
                 <p>Front-End Web Developer</p>
                 <p id = "grey"><span id = "blue">Self-Taugh Dev</span> Worked with 50+ business helping curate effective websites based on their brand needs.</p>
-                <p id = "grey"><span id = "green">Skill Sets:</span> HTML, Javascript, CSS, Solidity, PHP, Tailwind, EthersJs, Web3js </p>
+                <p id = "grey"><span id = "green">Skill Sets:</span> HTML, Javascript, CSS, SASS Solidity, PHP, Tailwind,Shopify Liquid, EthersJs, Web3js </p>
                 <p id = "grey"><span id = "yellow">Frameworks:</span>: ReactJs, Nextjs</p>
             </div>
             <div className = "header-div-right">
