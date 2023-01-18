@@ -161,7 +161,7 @@ export default function Home() {
             <div className  = "header-div-left">
                 <h1>Sydney Sanders</h1>
                 <p>Front-End Web Developer</p>
-                <p id = "grey"><span id = "blue">2+ Years of</span> Web Development. Mission is to always curate a website that the audiences loves</p>
+                <p id = "grey"><span id = "blue">Self-Taugh Dev</span> Worked with 50+ business helping curate effective websites based on their brand needs.</p>
                 <p id = "grey"><span id = "green">Skill Sets:</span> HTML, Javascript, CSS, Solidity, PHP, Tailwind, EthersJs, Web3js </p>
                 <p id = "grey"><span id = "yellow">Frameworks:</span>: ReactJs, Nextjs</p>
             </div>
@@ -235,7 +235,7 @@ export default function Home() {
           <div className = "work-flex">
                   <div className = "work-flex-left">
                       <span>03</span>
-                      <a href = "https://digitalanamoly.vercel.app/">Digital Anamoly(Work In Progress)</a>
+                      <a href = "http://digital-anomaly.com/">Digital Anamoly</a>
                   </div>
                   <div className = "work-flex-left">
                       <span id = "none">05</span>
@@ -248,11 +248,11 @@ export default function Home() {
           <div className = "work-flex">
                   <div className = "work-flex-left">
                       <span>04</span>
-                      <a href = "https://ad-vance-website.vercel.app/">Celi Agency</a>
+                      <a href = "https://crypto-frogs-v1.vercel.app/">Crypto-Frogs</a>
                   </div>
                   <div className = "work-flex-left">
                       <span id = "none">05</span>
-                      <span id = "small">Custom lead-gen website</span>
+                      <span id = "small">Custom-Built Lead Generation Site</span>
                   </div>
                   <div className = "work-flex-right"></div>
                 </div>
@@ -279,7 +279,7 @@ export default function Home() {
                   </div>
                   <div className = "work-flex-left">
                       <span id = "none">07</span>
-                      <span id = "small">Custom site buid on shopify</span>
+                      <span id = "small">Custom website buid on shopify</span>
                   </div>
                   <div className = "work-flex-right"></div>
                 </div>
